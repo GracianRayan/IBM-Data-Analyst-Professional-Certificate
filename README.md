@@ -65,7 +65,6 @@ This course presents a gentle introduction into the concepts of data analysis, t
 - Identify key elements in the Data Analytics process by analyzing a business case study and its data set. 
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-1-Coursera X5PWECG36MRX.png" width=60% height=60%>
 
 - [x] [__Course-2 : Excel Basics for Data Analysis__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-2%20:%20Excel%20Basics%20for%20Data%20Analysis)
 
@@ -83,7 +82,6 @@ This course is designed to provide you with basic working knowledge for using Ex
   
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-2-Coursera MH5F5DFUHM37.png" width=60% height=60%>
 
 
 - [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-3%20:%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
@@ -101,7 +99,6 @@ This course covers some of the first steps in the development of data visualizat
 - Build dashboards using Excel and Cognos Analytics.
   
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-3-Coursera N4WJHB723LXU.png" width=60% height=60%>
 
 - [x] [__Course-4 : Python for Data Science, AI & Development__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-4%20:%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 
@@ -120,7 +117,6 @@ This introduction to Python course will take you from zero to programming in Pyt
 - Access web data using APIs and web scraping from Python in Jupyter Notebooks.   
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-4-Coursera 6TQK95LMZBE4.png" width=60% height=60%>
 
 - [X] [__Course-5 : Python Project for Data Science__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-5%20:%20Python%20Project%20for%20Data%20Science)
 
@@ -139,7 +135,6 @@ You will perform specific data science and data analytics tasks such as extracti
 - Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook. 
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-5-Coursera 8CZQQ5Z94D6U.png" width=60% height=60%>
 
 - [x] [__Course-6 : Databases and SQL for Data Science with Python__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-6%20:%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
@@ -170,7 +165,6 @@ Through hands-on labs and projects, you will practice building SQL queries, work
 - Build more powerful queries with advanced SQL techniques like views, transactions, stored procedures and joins. 
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-6-Coursera 7WPY8PG8AK3F.png" width=60% height=60%>
 
 - [x] [__Course-7 : Data Analysis with Python__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-7%20:%20Data%20Analysis%20with%20Python)
 
@@ -198,7 +192,6 @@ You will learn how to import data from multiple sources, clean and wrangle data,
 - Build and evaluate regression models using machine learning scikit-learn library and use them for prediction and decision making
  
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-7-Coursera PFEJPUQDUBW2.png" width=60% height=60%>
 
 - [x] [__Course-8 : Data Visualization with Python__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-8%20:%20Data%20Visulization%20with%20Python)
 
@@ -219,7 +212,6 @@ You will learn hands-on by completing numerous labs and a final project to pract
 - Generate interactive dashboards containing scatter, line, bar, bubble, pie, and sunburst charts using the Dash framework and Plotly library
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-8-Coursera ZR3V8E8RCQQD.png" width=60% height=60%>
 
 - [x] [__Course-9 : IBM Data Analyst Capstone Project__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-9%20:%20Data%20Analyst%20Capstone%20Project)
 
@@ -228,7 +220,6 @@ In this course you will apply various Data Analytics skills and techniques that 
 You will undertake the tasks of collecting data from multiple sources, performing exploratory data analysis, data wrangling and preparation, statistical analysis and mining the data, creating charts and plots to visualize data, and building an interactive dashboard. The project will culminate with a presentation of your data analysis report, with an executive summary for the various stakeholders in the organization. You will be assessed on both your work for the various stages in the Data Analysis process, as well as the final deliverable. 
 
 <p align="center">
-<img src="/Lakshmi%20Kadali%20Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-9-Coursera AEGL53TV4YBG.png" width=60% height=60%>
 
 ---
 

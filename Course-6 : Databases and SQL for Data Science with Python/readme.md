@@ -42,6 +42,5 @@ This folder contains data files and a Jupyter Notebook script that demonstrates 
 
 ---
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-6-Coursera 7WPY8PG8AK3F.png" width=60% height=60%>
 
 

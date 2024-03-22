@@ -56,4 +56,3 @@ This introduction to Python course will take you from zero to programming in Pyt
 
 ---
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-4-Coursera 6TQK95LMZBE4.png" width=60% height=60%>

@@ -84,7 +84,7 @@ This course is designed to provide you with basic working knowledge for using Ex
 <p align="center">
 
 
-- [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-3%20:%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
+- [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/GracianRayan/IBM-Data-Analyst-Professional-Certificate/tree/main/Course-3%20%3A%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
 
 This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. Begin the process of telling a story with your data by creating the many types of charts that are available in spreadsheets like Excel. Explore the different tools of a spreadsheet, such as the important pivot function and the ability to create dashboards and learn how each one has its own unique property to transform your data. Continue to gain valuable experience by becoming familiar with the popular analytics tool - IBM Cognos Analytics - to create interactive dashboards.
   
@@ -100,7 +100,7 @@ This course covers some of the first steps in the development of data visualizat
   
 <p align="center">
 
-- [x] [__Course-4 : Python for Data Science, AI & Development__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-4%20:%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
+- [x] [__Course-4 : Python for Data Science, AI & Development__](https://github.com/GracianRayan/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%204%20%3A%20Python%20for%20Data%20Science%2C%20API%20%26%20Developement)
 
 Kickstart your learning of Python with this beginner-friendly self-paced course taught by an expert. Python is one of the most popular languages in the programming and data science world and demand for individuals who have the ability to apply Python has never been higher.  
 
@@ -118,7 +118,7 @@ This introduction to Python course will take you from zero to programming in Pyt
 
 <p align="center">
 
-- [X] [__Course-5 : Python Project for Data Science__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-5%20:%20Python%20Project%20for%20Data%20Science)
+- [X] [__Course-5 : Python Project for Data Science__](https://github.com/GracianRayan/IBM-Data-Analyst-Professional-Certificate/tree/main/Course-5%20%3A%20Python%20Project%20for%20Data%20Science)
 
 This mini-course is intended to for you to demonstrate foundational Python skills for working with data. This course primarily involves completing a project in which you will assume the role of a Data Scientist or a Data Analyst and be provided with a real-world data set and a real-world inspired scenario to identify patterns and trends. 
 
@@ -136,7 +136,7 @@ You will perform specific data science and data analytics tasks such as extracti
 
 <p align="center">
 
-- [x] [__Course-6 : Databases and SQL for Data Science with Python__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-6%20:%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+- [x] [__Course-6 : Databases and SQL for Data Science with Python__](https://github.com/GracianRayan/IBM-Data-Analyst-Professional-Certificate/tree/main/Course-6%20%3A%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
 Working knowledge of SQL (or Structured Query Language) is a must for data professionals like Data Scientists, Data Analysts and Data Engineers. Much of the world's data resides in databases. SQL is a powerful language used for communicating with and extracting data from databases.  
 
@@ -166,7 +166,7 @@ Through hands-on labs and projects, you will practice building SQL queries, work
 
 <p align="center">
 
-- [x] [__Course-7 : Data Analysis with Python__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-7%20:%20Data%20Analysis%20with%20Python)
+- [x] [__Course-7 : Data Analysis with Python__](https://github.com/GracianRayan/IBM-Data-Analyst-Professional-Certificate/tree/main/Course-7%20%3A%20Data%20Analysis%20With%20Python/Course-7)
 
 Analyzing data with Python is an essential skill for Data Scientists and Data Analysts. This course will take you from the basics of data analysis with Python to building and evaluating data models.  
 
@@ -193,7 +193,7 @@ You will learn how to import data from multiple sources, clean and wrangle data,
  
 <p align="center">
 
-- [x] [__Course-8 : Data Visualization with Python__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-8%20:%20Data%20Visulization%20with%20Python)
+- [x] [__Course-8 : Data Visualization with Python__](https://github.com/GracianRayan/IBM-Data-Analyst-Professional-Certificate/tree/main/Course-8%20%3A%20Data%20Visualization%20with%20Python)
 
 One of the most important skills of successful data scientists and data analysts is the ability to tell a compelling story by visualizing data and findings in an approachable and stimulating way. In this course you will learn many ways to effectively visualize both small and large-scale data. You will be able to take data that at first glance has little meaning and present that data in a form that conveys insights. 
 
@@ -213,7 +213,7 @@ You will learn hands-on by completing numerous labs and a final project to pract
 
 <p align="center">
 
-- [x] [__Course-9 : IBM Data Analyst Capstone Project__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-9%20:%20Data%20Analyst%20Capstone%20Project)
+- [x] [__Course-9 : IBM Data Analyst Capstone Project__](https://github.com/GracianRayan/IBM-Data-Analyst-Professional-Certificate/tree/main/Course-9%20%3A%20IBM%20Data%20Analyst%20Capstone%20Project)
 
 In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
 

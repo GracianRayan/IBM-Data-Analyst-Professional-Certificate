@@ -73,5 +73,4 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 ```
 ---
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-5-Coursera 8CZQQ5Z94D6U.png" width=60% height=60%>
 ---

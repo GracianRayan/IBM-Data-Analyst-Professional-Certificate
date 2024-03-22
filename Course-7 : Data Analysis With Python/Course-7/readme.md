@@ -55,5 +55,4 @@ You will learn how to import data from multiple sources, clean and wrangle data,
 
 ---
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-7-Coursera PFEJPUQDUBW2.png" width=60% height=60%>
 

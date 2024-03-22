@@ -22,4 +22,3 @@ You will learn hands-on by completing numerous labs and a final project to pract
 
 ---
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-8-Coursera ZR3V8E8RCQQD.png" width=60% height=60%>
